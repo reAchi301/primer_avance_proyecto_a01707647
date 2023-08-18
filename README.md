@@ -1,5 +1,5 @@
 # primer_avance_proyecto_a01707647
-CALCULADOR DE VALOR DE MERCADO DE UN JUGADOR DE FUTBOL
+CALCULADORA DE VALORES DE MERCADO DE UN JUGADOR DE FUTBOL
 
  Hoy en día se sabe que el fútbol no es solo un deporte, sino que es visto mayormente como un negocio. Como resultado los jugadores no solo son tomados en cuenta  
  como profesionistas sino como un producto de donde los clubes sacan provecho. Por lo mismo, cada jugador tiene un valor de mercado el cuál se 
