@@ -12,6 +12,13 @@ lo que diferentes clubes estarían pagando por él por parejo y el "precio final
 
 Dicho lo anterior, lo que se buscará con este proyecto será desarrollar un programa en el que con el hecho de introducir ciertos datos relacionados a algunos de los párametros anteriormente mencionados (usando variables de tipo string, boolean e integer) y que mediante el uso de condicionales pueda validar en base a los resultados que el usuario arroje de que clase de jugador se está hablando, para que de la misma manera vaya acumulando los resultados dados y así el programa dé como resultado el valor de mercado del jugador que el usuario desea saber.
 
+Avances
+
+Avance 1: Plantea una situación problema que le permite aplicar y demostrar sus conocimientos de programación (avance 1)
+
+Avance 2: Usa operadores aritméticos de manera eficaz (avance 2)
+
+Avance 3: Aplica estructuras condicionales para resolver un problema (avance 4)
 
 Fuentes:
 - Gómez, E. (2019, 27 de agosto). Así calcula Transfermarkt el valor de los jugadores de fútbol. Diario AS. https://as.com/futbol/2019/08/27/mas_futbol/1566863263_499442.html 
