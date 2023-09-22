@@ -23,6 +23,8 @@ Avance 3: Incorpora a tu proyecto libre uso de funciones. 31/08/2023
 Avance 4: Aplica estructuras condicionales para resolver un problema (avance 4) 07/09/2023
 Ya se incluían condicionales desde la primer entrega, pero se aññadieron más ahora de variable booleana.
 
+Avance 5: Se aplica el uso de ciclos while 21/09/2023
+
 Fuentes:
 - Gómez, E. (2019, 27 de agosto). Así calcula Transfermarkt el valor de los jugadores de fútbol. Diario AS. https://as.com/futbol/2019/08/27/mas_futbol/1566863263_499442.html 
 
