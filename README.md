@@ -25,6 +25,8 @@ Ya se incluían condicionales desde la primer entrega, pero se aññadieron más
 
 Avance 5: Se aplica el uso de ciclos while 21/09/2023
 
+Avance 6: Se aplican listas 28/09/2023
+
 Fuentes:
 - Gómez, E. (2019, 27 de agosto). Así calcula Transfermarkt el valor de los jugadores de fútbol. Diario AS. https://as.com/futbol/2019/08/27/mas_futbol/1566863263_499442.html 
 
