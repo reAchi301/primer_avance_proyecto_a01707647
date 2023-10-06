@@ -14,7 +14,9 @@ while True:
     
     nacion_ligas=[" (Inglaterra)"," (España)", " (Alemania)", " (Italia)"
             , " (Francia)"]
-    
+    """
+    Se anidan las listas para indicar de que país es cada liga
+    """
     resumen_ligas=[ligas[0]+nacion_ligas[0], ligas[1]+nacion_ligas[1],
                    ligas[2]+nacion_ligas[2], ligas[3]+nacion_ligas[3],
                    ligas[4]+nacion_ligas[4]]
