@@ -13,7 +13,9 @@ lo que diferentes clubes estarían pagando por él por parejo y el "precio final
 Dicho lo anterior, lo que se buscará con este proyecto será desarrollar un programa en el que con el hecho de introducir ciertos datos relacionados a algunos de los párametros anteriormente mencionados (usando variables de tipo string, boolean e integer) y que mediante el uso de condicionales pueda validar en base a los resultados que el usuario arroje de que clase de jugador se está hablando, para que de la misma manera vaya acumulando los resultados dados y así el programa dé como resultado el valor de mercado del jugador que el usuario desea saber.
 
 Referencias API de Phyton
+
 Librería: Math
+
 Utilizada dentro de este programa para poder calcular el valor absoluto de la variable resultado, que nos permite dar conclusión al objetivo del programa, se utilizó porque había unas situaciones en las que la variable tomaba un valor negativo que podía generar confusión dentro del programa.
 
 Este módulo proporciona acceso a las funciones matemáticas definidas en el estándar de C.
