@@ -12,6 +12,40 @@ lo que diferentes clubes estarían pagando por él por parejo y el "precio final
 
 Dicho lo anterior, lo que se buscará con este proyecto será desarrollar un programa en el que con el hecho de introducir ciertos datos relacionados a algunos de los párametros anteriormente mencionados (usando variables de tipo string, boolean e integer) y que mediante el uso de condicionales pueda validar en base a los resultados que el usuario arroje de que clase de jugador se está hablando, para que de la misma manera vaya acumulando los resultados dados y así el programa dé como resultado el valor de mercado del jugador que el usuario desea saber.
 
+Referencias API de Phyton
+Librería: Math
+Utilizada dentro de este programa para poder calcular el valor absoluto de la variable resultado, que nos permite dar conclusión al objetivo del programa, se utilizó porque había unas situaciones en las que la variable tomaba un valor negativo que podía generar confusión dentro del programa.
+
+Este módulo proporciona acceso a las funciones matemáticas definidas en el estándar de C.
+
+Estas funciones no pueden ser usadas con números complejos; usa las funciones con el mismo nombre del módulo cmath si requieres soporte para números complejos. La distinción entre las funciones que admiten números complejos y las que no se hace debido a que la mayoría de los usuarios no quieren aprender tantas matemáticas como se requiere para comprender los números complejos. Recibir una excepción en lugar de un resultado complejo permite la detección temprana del número complejo inesperado utilizado como parámetro, de modo que el programador pueda determinar cómo y porqué se generó en primer lugar.
+
+Este módulo proporciona las funciones descritas a continuación. Excepto cuando se indique lo contrario explícitamente, todos los valores retornados son flotantes. (Phyton, 2023).
+
+Fuentes:
+- Gómez, E. (2019, 27 de agosto). Así calcula Transfermarkt el valor de los jugadores de fútbol. Diario AS. https://as.com/futbol/2019/08/27/mas_futbol/1566863263_499442.html
+- math — Funciones matemáticas — documentación de Python - 3.12.0. (n.d.). Python Docs. Retrieved October 18, 2023, from https://docs.python.org/es/3/library/math.html
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+Subcompetencia original:
+Integración del API
+Cambio Realizado:
+Se incluyó la biblioteca Math para calcular el valor absoluto de la variable resultado ya que en algunos casos podía salir negativa.
+Lineas del código donde se puede encontrar: 13 y 262
+
+Subcompetencia original:
+Formato Pep 8
+Cambio Realizado:
+Se corrigió formato en su totalidad, desde los comentarios dentro de las funciones, hasta la misma presentación del programa
+Lineas del código donde se puede encontrar: de la 1 a 318
+
+Subcompetencia original:
+Funciones
+Cambio Realizado:
+Se sacaron las funciones del ciclo while y se corrigió su formato.
+Lineas del código donde se puede encontrar: de la 22 a 74
+
 Subcompetencia original:
 Estandáres
 Cambio Realizado:
@@ -40,9 +74,3 @@ Avance 5: Se aplica el uso de ciclos while 21/09/2023
 Avance 6: Se aplican listas 28/09/2023
 
 Avance 7: Se aplican listas anidadas 05/10/23
-
-
-Subcompetencia original:
-Fuentes:
-- Gómez, E. (2019, 27 de agosto). Así calcula Transfermarkt el valor de los jugadores de fútbol. Diario AS. https://as.com/futbol/2019/08/27/mas_futbol/1566863263_499442.html 
-
