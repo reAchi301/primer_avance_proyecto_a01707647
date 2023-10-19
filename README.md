@@ -32,32 +32,66 @@ Fuentes:
 
 Subcompetencia original:
 Integración del API
+
 Cambio Realizado:
 Se incluyó la biblioteca Math para calcular el valor absoluto de la variable resultado ya que en algunos casos podía salir negativa.
+
 Lineas del código donde se puede encontrar: 13 y 262
 
 Subcompetencia original:
+
 Formato Pep 8
+
 Cambio Realizado:
+
 Se corrigió formato en su totalidad, desde los comentarios dentro de las funciones, hasta la misma presentación del programa
+
 Lineas del código donde se puede encontrar: de la 1 a 318
 
 Subcompetencia original:
+
 Funciones
+
 Cambio Realizado:
+
+Ejemplo : 
+
+def contador (lista):
+    """
+    Contiene un contador que inicia en 0, se usa un ciclo for
+    para que recorra los componentes de la lista y por cada
+    elemento de la lista que recorra se le sume "1" al contador.
+    Básicamente cuenta el número de elementos que contiene la lista.
+    Recibe: Lista
+    Devuelve: el contador
+    """
+    cont = 0
+    for i in lista:
+        cont = cont + 1
+    return cont
+
 Se sacaron las funciones del ciclo while y se corrigió su formato.
+
 Lineas del código donde se puede encontrar: de la 22 a 74
 
 Subcompetencia original:
+
 Estandáres
+
 Cambio Realizado:
+
 Eliminé los archivos extra en el repositorio, corregí el formato entero de mi código con los lineamientos del PEP8
+
 Lineas del código donde se puede encontrar: de la 1 a la 295
 
 Subcompetencia original:
+
 Tecnologías
+
 Cambio Realizado:
+
 Se buscó como objetivo estar dentro de los lineamientos requeridos
+
 Lineas del código donde se puede encontrar: de la 1 a la 295
 
 Avances
