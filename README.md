@@ -57,6 +57,7 @@ Cambio Realizado:
 Ejemplo : 
 
 def contador (lista):
+
     """
     Contiene un contador que inicia en 0, se usa un ciclo for
     para que recorra los componentes de la lista y por cada
@@ -65,9 +66,13 @@ def contador (lista):
     Recibe: Lista
     Devuelve: el contador
     """
+    
     cont = 0
+    
     for i in lista:
+    
         cont = cont + 1
+        
     return cont
 
 Se sacaron las funciones del ciclo while y se corrigió su formato.
